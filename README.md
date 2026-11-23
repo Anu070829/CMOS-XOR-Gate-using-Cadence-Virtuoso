@@ -25,17 +25,17 @@ The project includes:
 4. XOR Gate Truth Table
 
 Input A| Input B| Output Y
-0| 0| 0
-0| 1| 1
-1| 0| 1
-1| 1| 0
+0      | 0      | 0
+0      | 1      | 1
+1      | 0      | 1
+1      | 1      | 0
 
 5. Project Files
 
-File| Description
-xor-schematic.jpeg| CMOS XOR transistor-level schematic
-xor-symbol.jpeg| XOR gate symbol
-xor-waveform.jpeg| Transient simulation waveform
+File                | Description
+xor-schematic.jpeg  | CMOS XOR transistor-level schematic
+xor-symbol.jpeg     | XOR gate symbol
+xor-waveform.jpeg   | Transient simulation waveform
 
 6. Simulation Results
 
