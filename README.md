@@ -21,7 +21,6 @@ The project includes:
 - XOR symbol creation
 - Transient simulation
 - Input and output waveform analysis
-- Physical layout implementation (In Progress)
 
 4. XOR Gate Truth Table
 
@@ -56,4 +55,3 @@ The output follows the XOR truth table, producing logic HIGH when the two inputs
 
 Successfully designed the CMOS XOR gate schematic, created its symbol and performed transient simulation using Cadence Virtuoso.
 
-The next stage is physical layout implementation and verification.
